@@ -1,5 +1,8 @@
 package ru.systemairac.calculator.service;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class CalculationServiceImpl implements CalculationService {
 
     @Override
